@@ -1,4 +1,5 @@
 [![Flatris](flatris.png)](https://flatris.space/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fioana-simion-g%2FFlatris-LAB.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fioana-simion-g%2FFlatris-LAB?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
 
@@ -11,3 +12,7 @@
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fioana-simion-g%2FFlatris-LAB.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fioana-simion-g%2FFlatris-LAB?ref=badge_large)
